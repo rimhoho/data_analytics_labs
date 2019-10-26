@@ -1,0 +1,31 @@
+ranking,title,rating,num_review,price,address,neighbourhood,time,type_1,type_2,type_3
+1,Fog Harbor Fish House,4.0,1616,50,353 Columbus Ave,North Beach/Telegraph Hill,2019-10-25 18:38:05.283256,Seafood,Bars,
+2,The House,4.5,1636,100,696 Geary St,Lower Nob Hill,2019-10-25 18:38:05.283256,Asian Fusion,,
+3,MaMo,5.0,5753,50,Pier 39,Fisherman's Wharf,2019-10-25 18:38:05.283256,American (New),Colombian,Venezuelan
+4,Limón Rotisserie,4.0,4727,50,1230 Grant Ave,North Beach/Telegraph Hill,2019-10-25 18:38:05.283256,Peruvian,Tapas/Small Plates,
+5,Liholiho Yacht Club,4.5,82,100,3659 Buchanan St,Marina/Cow Hollow,2019-10-25 18:38:05.283256,Bars,American (New),Seafood
+6,Farmhouse Kitchen Thai Cuisine,4.0,3141,50,1001 S Van Ness Ave,Mission,2019-10-25 18:38:05.283256,Thai,Comfort Food,
+7,Tuba Authentic Turkish Restaurant,4.5,2290,50,871 Sutter St,Lower Nob Hill,2019-10-25 18:38:05.283256,Mediterranean,Turkish,
+8,The Front Porch,4.0,2186,50,710 Florida St,Mission,2019-10-25 18:38:05.283256,Southern,Cajun/Creole,American (Traditional)
+9,Loló,4.0,999,50,1007 Guerrero St,Mission,2019-10-25 18:38:05.283256,Tapas/Small Plates,,
+10,Purple Rice,4.5,2760,0,65 29th St,Bernal Heights,2019-10-25 18:38:05.283256,Korean,Barbeque,Asian Fusion
+11,Dumpling House,4.0,2115,0,974 Valencia St,Mission,2019-10-25 18:38:05.283256,Dim Sum,Asian Fusion,
+12,Marufuku Ramen SF,4.5,34,50,509 Haight St,Lower Haight,2019-10-25 18:38:05.283256,Ramen,,
+13,Zazie,4.0,84,50,335 Noe St,Castro,2019-10-25 18:38:05.283256,Breakfast & Brunch,French,
+14,InoVino,4.5,2621,50,941 Cole St,Cole Valley,2019-10-25 18:38:05.283256,Italian,Wine Bars,
+15,Voodoo Love,4.5,4310,0,108B Carl St,Cole Valley,2019-10-25 18:38:05.283256,Cajun/Creole,,
+16,Pier Market Seafood Restaurant,4.0,145,50,1599 Howard St,SoMa,2019-10-25 18:38:05.283256,Seafood,Bars,Sandwiches
+17,Kitchen Story,4.0,23,50,Pier 39,Fisherman's Wharf,2019-10-25 18:38:05.283256,Breakfast & Brunch,Asian Fusion,American (New)
+18,Noosh,4.0,1989,50,3499 16th St,Castro,2019-10-25 18:38:05.283256,Mediterranean,,
+19,Limón Rotisserie,3.5,3192,50,2001 Fillmore St,Lower Pacific Heights,2019-10-25 18:38:05.283256,Peruvian,Tapas/Small Plates,
+20,Mona Lisa Restaurant,4.0,252,50,524 Valencia St,Mission,2019-10-25 18:38:05.283256,Italian,,
+21,Plain Jane,4.5,2481,50,353 Columbus Ave,North Beach/Telegraph Hill,2019-10-25 18:38:05.283256,Breakfast & Brunch,,
+22,Izakaya Mayumi,4.5,1616,0,1000 Guerrero St,Mission,2019-10-25 18:38:05.283256,Izakaya,,
+23,Skool,4.0,146,50,2221 Clement St,Outer Richmond,2019-10-25 18:38:05.283256,Seafood,Japanese,Asian Fusion
+24,Kokkari Estiatorio,4.5,17,100,1725 Alameda St,,2019-10-25 18:38:05.283256,Greek,Mediterranean,
+25,Nopa,4.0,1723,100,200 Jackson St,Financial District,2019-10-25 18:38:05.283256,American (New),Desserts,Cocktail Bars
+26,Scoma’s Restaurant,4.0,4448,100,560 Divisadero St,Alamo Square,2019-10-25 18:38:05.283256,Seafood,Italian,Lounges
+27,Sotto Mare Oysteria & Seafood,4.5,5022,50,1965 Al Scoma Way,Fisherman's Wharf,2019-10-25 18:38:05.283256,Seafood,Italian,Bars
+28,Troya,4.0,3657,50,2125 Fillmore St,Pacific Heights,2019-10-25 18:38:05.283256,Mediterranean,Turkish,
+29,Lark,4.0,3624,50,4068 18th St,Castro,2019-10-25 18:38:05.283256,American (New),Mediterranean,Wine Bars
+30,Alegrias,4.0,556,50,2018 Lombard St,Marina/Cow Hollow,2019-10-25 18:38:05.283256,Spanish,Tapas Bars,

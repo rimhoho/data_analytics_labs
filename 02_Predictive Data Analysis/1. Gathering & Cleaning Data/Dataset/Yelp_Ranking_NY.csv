@@ -1,0 +1,31 @@
+ranking,title,rating,num_review,price,address,neighbourhood,time,type_1,type_2,type_3
+1,Amélie,4.5,1,55,22 W 8th St,Greenwich Village,2019-10-25 21:20:23.057085,French,Wine Bars,
+2,Upstate,4.5,2593,55,95 1st Ave,East Village,2019-10-25 21:20:23.057085,Seafood,Wine Bars,Beer Bar
+3,LoveMama,4.5,1796,55,174 2nd Ave,East Village,2019-10-25 21:20:23.057085,Thai,Malaysian,Vietnamese
+4,Burger & Lobster,4.0,4647,55,39 W 19th St,Flatiron,2019-10-25 21:20:23.057085,Seafood,Burgers,American (New)
+5,Thai Villa,4.5,5298,55,5 E 19th St,Flatiron,2019-10-25 21:20:23.057085,Thai,Asian Fusion,
+6,Ipanema Restaurant,4.0,2947,55,43 W 46th St,Midtown West,2019-10-25 21:20:23.057085,Brazilian,Portuguese,Steakhouses
+7,Aunt Jake’s,4.0,1307,55,149 Mulberry St,Little Italy,2019-10-25 21:20:23.057085,Italian,Wine Bars,Pasta Shops
+8,Uglyduckling,4.0,1371,55,166 Smith St,Cobble Hill,2019-10-25 21:20:23.057085,American (Traditional),Gastropubs,
+9,Paesano of Mulberry Street,4.0,463,55,136 Mulberry St,Little Italy,2019-10-25 21:20:23.057085,Italian,Salad,Seafood
+10,Chama Mama,4.5,805,55,149 W 14th St,Chelsea,2019-10-25 21:20:23.057085,Georgian,,
+11,Salt + Charcoal,4.0,159,55,171 Grand St,Williamsburg - South Side,2019-10-25 21:20:23.057085,Japanese,Asian Fusion,Steakhouses
+12,Juliana’s Pizza,4.5,421,55,19 Old Fulton St,DUMBO,2019-10-25 21:20:23.057085,Pizza,,
+13,Boucherie West Village,4.5,2099,550,99 7th Ave S,West Village,2019-10-25 21:20:23.057085,French,Cocktail Bars,Steakhouses
+14,Gelso & Grand,4.5,1310,55,186 Grand St,Little Italy,2019-10-25 21:20:23.057085,Italian,Pasta Shops,Pizza
+15,Barn Joo 35,4.5,842,55,34 W 35th St,Midtown West,2019-10-25 21:20:23.057085,Korean,Gastropubs,Tapas/Small Plates
+16,Atrium Dumbo,3.5,1774,55,15 Main St,DUMBO,2019-10-25 21:20:23.057085,American (New),French,
+17,Pig and Khao,4.0,654,55,68 Clinton St,Lower East Side,2019-10-25 21:20:23.057085,Filipino,Thai,Asian Fusion
+18,Joe’s Shanghai,4.0,1563,55,9 Pell St,Chinatown,2019-10-25 21:20:23.057085,Shanghainese,Seafood,
+19,nonono,4.5,5970,55,118 Madison Ave,Midtown East,2019-10-25 21:20:23.057085,Tapas/Small Plates,Izakaya,Ramen
+20,Alta,4.0,557,550,64 W 10th St,Greenwich Village,2019-10-25 21:20:23.057085,Tapas Bars,Mediterranean,Spanish
+21,Balzem,4.0,1857,55,202 Mott St,Nolita,2019-10-25 21:20:23.057085,Mediterranean,Tapas/Small Plates,Wine Bars
+22,Antica Ristorante,4.5,416,550,8 Stone St,Financial District,2019-10-25 21:20:23.057085,Italian,,
+23,1803,4.5,485,55,82 Reade St,TriBeCa,2019-10-25 21:20:23.057085,Cajun/Creole,Seafood,Bars
+24,Bea,4.0,313,55,403 W 43rd St,Midtown West,2019-10-25 21:20:23.057085,American (New),Cocktail Bars,
+25,The MasalaWala,4.5,2403,55,179 Essex St,Lower East Side,2019-10-25 21:20:23.057085,Indian,Pakistani,
+26,Fishmarket Restaurant,4.5,1423,55,111 South St,South Street Seaport,2019-10-25 21:20:23.057085,Seafood,Chinese,Asian Fusion
+27,Da Andrea,4.0,538,55,35 W 13th St,Greenwich Village,2019-10-25 21:20:23.057085,Tuscan,,
+28,Soco,4.0,729,55,509 Myrtle Ave,Clinton Hill,2019-10-25 21:20:23.057085,Cajun/Creole,Barbeque,Soul Food
+29,Jajaja,4.5,2073,55,162 E Broadway,Lower East Side,2019-10-25 21:20:23.057085,Mexican,Vegan,Bars
+30,Pepe Rosso Social,4.0,829,55,173 Mott St,Little Italy,2019-10-25 21:20:23.057085,Italian,,

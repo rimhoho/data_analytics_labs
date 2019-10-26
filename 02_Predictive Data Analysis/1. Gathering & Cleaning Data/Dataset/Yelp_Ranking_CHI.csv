@@ -1,0 +1,31 @@
+ranking,title,rating,num_review,price,address,neighbourhood,time,type_1,type_2,type_3
+1,The Whale Chicago,4.5,212,50,2427 N Milwaukee Ave,Logan Square,2019-10-25 18:03:52.473390,American (New),,
+2,Penumbra,5.0,493,50,3309 W Fullerton Ave,Logan Square,2019-10-25 18:03:52.473390,Wine Bars,Seafood,Steakhouses
+3,Girl & the Goat,4.5,8445,100,809 W Randolph St,West Loop,2019-10-25 18:03:52.473390,American (New),Bakeries,Coffee & Tea
+4,Sapori Trattoria,4.5,2142,50,2701 N Halsted St,Lincoln Park,2019-10-25 18:03:52.473390,Italian,Desserts,Bars
+5,Mable’s Table,4.5,282,50,1655 W Cortland St,Bucktown,2019-10-25 18:03:52.473390,American (New),Steakhouses,
+6,etta,4.5,451,50,1840 W North Ave,Wicker Park,2019-10-25 18:03:52.473390,American (New),Breakfast & Brunch,
+7,The Purple Pig,4.0,6985,50,444 N Michigan Ave,Near North Side,2019-10-25 18:03:52.473390,Tapas/Small Plates,Mediterranean,Breakfast & Brunch
+8,Pequod’s Pizzeria,4.0,5824,50,2207 N Clybourn Ave,DePaul,2019-10-25 18:03:52.473390,Pizza,,
+9,MCCB Chicago 时尚食谱,4.5,346,50,2138 South Archer Ave,Chinatown,2019-10-25 18:03:52.473390,Chinese,,
+10,Serai,4.5,527,50,2169 N Milwaukee Ave,Logan Square,2019-10-25 18:03:52.473390,Malaysian,Asian Fusion,Desserts
+11,Au Cheval,4.5,6817,50,800 W Randolph St,West Loop,2019-10-25 18:03:52.473390,Bars,Burgers,American (Traditional)
+12,Giant,4.5,417,100,3209 W Armitage Ave,Logan Square,2019-10-25 18:03:52.473390,American (New),,
+13,Volare Ristorante Italiano,4.0,2024,50,201 E Grand Ave,Near North Side,2019-10-25 18:03:52.473390,Italian,,
+14,Tortello,4.5,117,50,1746 W Division St,West Town,2019-10-25 18:03:52.473390,Pasta Shops,Italian,
+15,The Crab Pad,4.5,468,50,2529 N Milwaukee Ave,Logan Square,2019-10-25 18:03:52.473390,Seafood,Cajun/Creole,Desserts
+16,Boka,4.5,1378,100,1729 N Halsted St,Lincoln Park,2019-10-25 18:03:52.473390,American (New),,
+17,Sea & Olive,4.5,7,0,1938 W Division St,West Town,2019-10-25 18:03:52.473390,Mediterranean,Greek,American (New)
+18,Cafe Ba-Ba-Reeba!,4.0,3945,50,2024 N Halsted St,Lincoln Park,2019-10-25 18:03:52.473390,Spanish,Tapas Bars,Venues & Event Spaces
+19,Robert’s Pizza & Dough Company,4.5,304,50,465 N McClurg,Near North Side,2019-10-25 18:03:52.473390,Pizza,,
+20,TWO Restaurant,4.5,845,100,1132 W Grand Ave,Noble Square,2019-10-25 18:03:52.473390,American (New),Whiskey Bars,
+21,Forbidden Root,4.5,441,50,1746 W Chicago Ave,Ukrainian Village,2019-10-25 18:03:52.473390,Breweries,American (New),Burgers
+22,Fat Rice,4.0,1024,50,2957 W Diversey Ave,Logan Square,2019-10-25 18:03:52.473390,Chinese,Portuguese,Wine Bars
+23,Alinea,4.5,2135,1000,1723 N Halsted St,Lincoln Park,2019-10-25 18:03:52.473390,American (New),Modern European,
+24,Oriole,5.0,272,1000,661 W Walnut St,West Loop,2019-10-25 18:03:52.473390,American (New),,
+25,SPICY FINGERS Seafood Kitchen,4.5,32,0,1549 W Chicago Ave,Noble Square,2019-10-25 18:03:52.473390,Seafood,Cajun/Creole,Pan Asian
+26,Wynwood,4.5,8,0,1560 N Milwaukee Ave,Wicker Park,2019-10-25 18:03:52.473390,American (New),Cocktail Bars,
+27,Ēma,4.5,908,50,74 W Illinois St,Near North Side,2019-10-25 18:03:52.473390,Mediterranean,Tapas/Small Plates,
+28,Aba,4.5,574,100,302 N Green St,Fulton Market,2019-10-25 18:03:52.473390,Mediterranean,Tapas/Small Plates,
+29,RAMEN-SAN,4.0,2048,50,59 W Hubbard St,Near North Side,2019-10-25 18:03:52.473390,Ramen,,
+30,Quartino Ristorante,4.0,4546,50,626 N State St,Near North Side,2019-10-25 18:03:52.473390,Italian,Wine Bars,
