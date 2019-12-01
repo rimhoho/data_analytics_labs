@@ -11,17 +11,34 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import WebDriverException
 # from selenium.webdriver.common.proxy import Proxy, ProxyType
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.proxy import Proxy, ProxyType
 
 import re, pymongo, time, pdb, itertools, requests, json
 from pymongo import MongoClient
 
 def init_browser():
-    driver = webdriver.Chrome('/Users/hh/Documents/ECT/rimhoho.github.io/chromedriver') #download from here, https://chromedriver.chromium.org/downloads and use the path
+    # driver = webdriver.Chrome('/Users/hh/Documents/ECT/rimhoho.github.io/chromedriver')
+    prox = Proxy()
+    prox.proxy_type = ProxyType.MANUAL
+    prox.http_proxy = "http://localhost:8118"
+    prox.ssl_proxy = "http://localhost:8118"
+    
+    capabilities = webdriver.DesiredCapabilities.CHROME
+    prox.add_to_capabilities(capabilities)
+    
+    options = webdriver.ChromeOptions()
+    options.binary_location = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+    # options.add_argument('headless')
+    # set the window size
+    options.add_argument('window-size=1881x1280')
+    
+    # initialize the driver
+    driver = webdriver.Chrome(options=options, desired_capabilities=capabilities)
     return driver
 
 def searches_lists(driver, collections):
     # search_trend_urls = ['https://trends.google.com/trends/yis/' + year + '/GLOBAL/' for year in collections]
-    search_trend_urls = ['https://trends.google.com/trends/yis/2011/GLOBAL/']
+    search_trend_urls = ['https://trends.google.com/trends/yis/2008/GLOBAL/']
     
     for each_year in search_trend_urls:
         time.sleep(2)
@@ -95,7 +112,7 @@ def access_db(dbname, collectionnames):
     return db, collections
 
 def main():
-    db, collections = access_db('Google_search_trends_global_db', ['2001', '2002','2003','2004','2005','2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'])
+    db, collections = access_db('Google_search_trends_global_db', ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'])
     driver = init_browser()
     time.sleep(3)
     searches_lists(driver, collections)
@@ -103,7 +120,3 @@ def main():
     return 
 
 main()
-
-
-
-
