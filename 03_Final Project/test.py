@@ -1,4 +1,6 @@
 
+
+
 under_mean_by_internet_penetration = [{'region' : 'Oceania', 'under_mean_country': {'American Samoa': '43.1%', 'Chrismas Island': '45.4%', 'Cocos Is.': '13.4%', 'Cook Islands': '65.2%', 'Fiji': '54.5%', 'Kiribati': '27.4%', 'Mashall Islands': '38.7%', 'Micronesia': '52.5%', 'Nauru': '57%', 'Norfolk Island': '45.5%', 'Palau': '35.4%', 'Papau New Guines': '11.2%', 'Solomon Island': '11.9%', 'Samoa': '50.3%', 'Tokelau': '59.7%', 'Tonga': '52.5%', 'Tuvalu': '49.3%', 'Wallis & Futuna': '33.6%'}, 'mean': '68.4%'},
                                       {'region' : 'Africa', 'under_mean_country': {'Angola': '22.3%', 'Benin': '32.2%', 'Burkina Faso': '18.2%', 'Angola': '22.3%', 'Benin': '32.2%', 'Burkina Faso':'18.2%', 'Burundi': '5.3%', 'Cameroon': '24.2%', 'Central African Rep.': '5.3%', 'Chad': '6.5%', 'Comoros':'15.3%', 'Congo': '11.7%', 'Congo, Dem. Rep.' : '8.6%', 'Equatorial Guinea' :'26.2%', 'Eritrea' : '1.3%', 'Ethiopia': '18.6%', 'Gambia': '19.8%', 'Ghana' : '39.0%', 'Guinea' : '18.0%', 'Guinea-Bissau' : '7.7%', 'Lesotho': '29.8%', 'Madagascar' : '9.8%', 'Malawi' : '13.8%', 'Mauritania' : '19,290%', 'Mozambique' : '20.8%', 'Niger' : '10.2%', 'Sao Tome & Principe' : '29.9%', 'Sierra Leone': '13.2%', 'Somalia': '9.6%', 'South Sudan': '16.8%', 'Sudan': '30.9%', 'Tanzania': '38.0%', 'Togo': '12.4%', 'Western Sahara': '4.8%'}, 'mean': '39.6%'},
                                       {'region' : 'Middle East', 'under_mean_country': {'Yemen':'26.6%', 'Iraq':'49.4%', 'Palestine (State of)':'65.2%', 'Syria':'34.2%'}, 'mean':'67.9%'},
@@ -14,8 +16,7 @@ country_google = ['Argentina','Australia','Austria','Bangladesh','Belarus','Belg
 ]
 
 for region in under_mean_by_internet_penetration:
-    lists = []
-    
+    lists = []   
     for country in country_google:
         dicts ={}
         if country in region['under_mean_country'].keys():
@@ -26,4 +27,12 @@ for region in under_mean_by_internet_penetration:
             lists.append(dicts)
 print(lists)
 
-[{'region': 'Asia', 'under_mean_country': 'India'}, {'region': 'Asia', 'under_mean_country': 'Pakistan'}, {'region': 'Asia', 'under_mean_country': 'Philippines'}]
+lists = [{'region': 'Asia', 'under_mean_country': 'India', 'Penetration_Population': '40.9%', 'mean_of_the region': '54.2%'}, 
+         {'region': 'Asia', 'under_mean_country': 'Pakistan', 'Penetration_Population': '35.0%', 'mean_of_the region': '54.2%'}, 
+         {'region': 'Asia', 'under_mean_country': 'Philippines', 'Penetration_Population': '3.4%', 'mean_of_the region': '54.2%'}]
+
+
+
+
+
+
